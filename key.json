@@ -18,7 +18,10 @@
     "A": {
       "status": "approved",
       "max_devices": 9,
-      "expiry_date": "2026-08-19"
+      "expiry_date": "2026-08-19",
+      "hwid": [
+        "9d5e8883d5bf4198"
+      ]
     }
   },
   "settings": {
