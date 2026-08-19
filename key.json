@@ -1,0 +1,30 @@
+{
+  "keys": {
+    "DP-UNIVERSAL": {
+      "expiry_date": "2099-12-31",
+      "hwid": [
+        "ANY"
+      ],
+      "status": "approved"
+    },
+    "DP-VIP-101": {
+      "expiry_date": "2026-12-31",
+      "hwid": [
+        "your_device_id_here",
+        "another_device_id_here"
+      ],
+      "status": "approved"
+    }
+  },
+  "settings": {
+    "admin_url": "https://t.me/av_ku1",
+    "banned_devices": [
+      "hacker_hwid_1",
+      "spammer_hwid_2"
+    ],
+    "banner_url": "https://glorious-lime-h5icpesz.edgeone.dev/file.png",
+    "maintenance": false,
+    "subtitle": "Copy your Device ID and send it to Admin.",
+    "title": "PREMIUM ACCESS"
+  }
+}
